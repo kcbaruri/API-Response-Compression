@@ -10,7 +10,7 @@
 
 ![Screenshot](wiki-images/no_compression_applied_response_size.png)
 
-<h1>Data compression is not applied</h1>
+<h1>Data compression is applied</h1>
 
 ![Screenshot](wiki-images/data_compression_applied.png)
 
