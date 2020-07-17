@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressedWebAPIResponse", "CompressedWebAPIResponse\CompressedWebAPIResponse.csproj", "{477785E3-A0C1-407C-93DB-C443CEBA881F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477785E3-A0C1-407C-93DB-C443CEBA881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477785E3-A0C1-407C-93DB-C443CEBA881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477785E3-A0C1-407C-93DB-C443CEBA881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477785E3-A0C1-407C-93DB-C443CEBA881F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC31B1A-6DF2-4C8E-AD81-DAF9A05E9F4B}
+	EndGlobalSection
+EndGlobal
