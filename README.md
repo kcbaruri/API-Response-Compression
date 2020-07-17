@@ -17,3 +17,6 @@
 <h1>Response stream size when compression is applied</h1>
 
 ![Screenshot](wiki-images/data_compression_applied_response_size.png)
+
+
+<h1>After applying data compression technique, size of http response data is reduced by 56.76%</h1>
